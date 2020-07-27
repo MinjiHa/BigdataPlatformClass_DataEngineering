@@ -1,22 +1,28 @@
-# JavaProg
-Hello, I am new in Programming.
-Start studying Java, Python
-HTML, CSS, Javascript
-Oracle, JSP&Servlet
-try to understand something cool!
+# Bigdataplatform_DataEngineering_Note
 
-수업데이터, 실습 데이터 기록합니다.  
-===================================
-대한상공회의소 서울기술교육센터(화곡동)에서 진행하는 '자바기반 빅데이터 플랫폼 구축 전문가(개발자) 양성교육' 과정 수강 중에 작성하는 파일들을 저장합니다!<br>
-스터디 관련 파일 : https://github.com/myshamil/studying.git <br>
-클래스 프로젝트(홈페이지 개발) : https://github.com/Theo-Junior/classProject.git <br>
-파이널 프로젝트 Movie for You : https://github.com/MinjiHa/MovieForYou.git <br>
+DataEngineering의 강의는 총 7일.  
+강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
+매일 강의 내용을 프로젝트 폴더 단위(코드 / .확장자)로 업로드를 진행합니다.  
+:: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.  
 
+<hr>   
 
+[학습]  
+- **DataEngineering 의 학습 목표 : 빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 H** 
+- Class 01 : Data Controll Library 둘러보기 / Numpy 학습 및 기본 통계 기법 학습 / Numpy 기본 실습 및 예제 풀이 / 데이터 구조 학습          
+- Class 02 : 데이터 둘러보기(요약, 통계) 등 함수 / 전처리 가공에 대한 개념 및 학습 / 크롤링 개념 및 관련 라이브러리 학습 / Pandas 라이브러리 학습
+- Class 03 : 데이터 수집 및 처리 학습(크롤링 & Pandas 기초 실습) / 데이터 수집 및 처리 실습(영화 순위 크롤링 후 처리 ) / 배열 계산 및 처리 함수 실습  
+- Class 04 : Pandas 심화 학습 / DataFrame, Col-Row Slicing 학습 / 중간 테스트 실시 / 중간 학습 리뷰  
+- Class 05 : Numpy 학습 / Matplot 학습 / DataFrame 기본 및 전처리 학습(슬라이싱, 인덱싱, 컬럼 변환) / Excel Read 및 처리   
+- Class 06 : Matplot Plot 학습 / 다양한 Plot 예제 실습 / Excel(.csv) Read 및 전처리 후 그래프 그리기  
+- Class 07 : 과정 리뷰 및 중간 평가 / Pandas Groupby, Sorting, Indexing, Slicing 학습 / Folium 라이브러리 활용 지도 다루기 실습  
+- Class 08 : Pandas Groupby, Sorting, Indexing, Slicing 학습 / Folium 라이브러리 활용 지도 다루기 복습 및 데이터 가공처리 복습  
+- Class 09 : BeautifulSoup을 활용한 크롤링 / Selenium을 활용한 웹 제어 / 라이브러리를 활용해 수집한 데이터 가공 처리 실습   
 <hr>
 
+작성 : Minji Ha   
 교육 과정 : 자바기반 빅데이터 플랫폼 구축 전문가(개발자) 양성교육    
-강의 : 이정구, 박길식 교수님    
+강의 : 이정구 교수님    
 기간 : 2020. 04. 07 - 2020. 08. 13 / 총 88일(700 H)     
 장소 : 대한상공회의소 서울기술교육센터(화곡동)    
 
@@ -32,13 +38,13 @@ try to understand something cool!
 * 분산정보시스템 개발을 위한 프레임워크 활용 
 
 과정상세 
-* **프로그래밍 언어 활용 : 80 H** 
-* 빅데이터 플랫폼 화면 구현 : 40 H 
+* 프로그래밍 언어 활용 : 80 H 
+* 빅데이터 플랫폼 화면 구현 : 40 H  
 * 빅데이터 수집시스템 개발 : 32 H 
-* 빅데이터 저장시스템 개발 : 32 H 
-* 빅데이터 처리시스템 개발 : 32 H 
-* 빅데이터 분석 플랫폼 시스템 개발 : 64 H 
-* 빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 H
+* 빅데이터 저장시스템 개발 : 32 H   
+* 빅데이터 처리시스템 개발 : 32 H** 
+* 빅데이터 분석 플랫폼 시스템 개발 : 64 -> 96 H 
+* **빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 -> 72 H**
 * 데이터 입출력 구현 : 32 H 
 * 통계기반 데이터 분석 : 32 H 
 * 머신러닝기반 데이터 분석 56 H
@@ -48,3 +54,4 @@ try to understand something cool!
   
 
 <hr>
+
